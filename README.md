@@ -1,4 +1,4 @@
-# Hi there, I'm Kelvin 👋
+in# Hi there, I'm Kelvin 👋
 
 💻 Software Engineer passionate about crafting efficient backends, intuitive UIs, and impactful end-to-end solutions
 
@@ -44,9 +44,9 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 
 ## 📫 How to Reach Me
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **Portfolio Website:** [your-portfolio.com](https://your-portfolio.com)  
+- **Email:**kelvinyabate@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/kelvin-nyabuto-2b3021121/)  
+
 
 ---
 
