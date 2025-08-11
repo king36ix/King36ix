@@ -1,6 +1,6 @@
 # Hi there, I'm Kelvin 👋
 
-💻 **Software Engineer | Full-Stack Developer | Tech Enthusiast**
+💻 Software Engineer passionate about crafting efficient backends, intuitive UIs, and impactful end-to-end solutions
 
 I build clean, scalable, and impactful software solutions — from concept to deployment.  
 I’m passionate about crafting **user-friendly interfaces**, **efficient backends**, and integrating modern tools to solve real-world problems.
