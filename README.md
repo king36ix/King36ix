@@ -19,7 +19,7 @@ Designed for small to medium-sized businesses, this system enables **real-time s
 **✨ Key Features:**  
 - 🛒 **Sales Management** – Process transactions quickly and efficiently.  
 - 📦 **Stock Management** – Track inventory levels, restock alerts, and product management.  
-- 🖨 **Bluetooth Receipt Printing** – Seamless receipt generation via connected printers.  
+- 🖨 **Receipt Printing** – Seamless receipt generation via connected printers.  
 - 📊 **Daily & Monthly Reports** – View and export sales analytics.  
 - 🔐 **User Authentication** – Role-based access for cashiers, managers, and admins.  
 - 📱 **Responsive UI** – Smooth navigation with JavaFX UI components.  
