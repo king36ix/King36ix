@@ -19,7 +19,7 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 
 ---
 
-## 🛠️ Tech Skills
+## Technical Skills
 
 **Languages:** Java, C#,Kotlin, JavaScript, Python, C++  
 **Frameworks:** React.js, Jetpack Compose, JavaFX, Spring Boot, Node.js  
@@ -29,14 +29,14 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=king36ix&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king36ix&layout=compact&theme=tokyonight)
 
 
 ---
-## 👨‍💻 About Me
+## About Me
 - 🌱 Currently learning: Qt with C++,Advanced Spring Boot  and Cloud Development
 - 🔭 Working on: A multi-tenant POS with cloud sync
 - 💡 Interested in: Fintech, mobile apps, and scalable backend systems
