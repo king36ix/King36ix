@@ -21,7 +21,7 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 
 ## 🛠️ Tech Skills
 
-**Languages:** Java, Kotlin, JavaScript, Python, C++  
+**Languages:** Java, C#,Kotlin, JavaScript, Python, C++  
 **Frameworks:** React.js, Jetpack Compose, JavaFX, Spring Boot, Node.js  
 **Databases:** SQLite, PostgreSQL, MySQL  
 **Tools:** Git, GitHub Actions, Docker, Postman, Figma  
