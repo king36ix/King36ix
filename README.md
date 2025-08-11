@@ -11,9 +11,7 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 ---
 
 ### **Java POS System**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ,![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  ,![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)  
 
 💻 **A fully-featured desktop Point of Sale (POS) application** built with **JavaFX** and **SQLite**.  
 Designed for small to medium-sized businesses, this system enables **real-time sales tracking, inventory management, receipt printing**, and **offline-first operation**.
@@ -33,9 +31,7 @@ Designed for small to medium-sized businesses, this system enables **real-time s
 ---
 
 ### **C# POS System**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ,![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ,![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 🖥 **A robust Point of Sale (POS) solution** built with **C# WinForms** and **SQLite**, optimized for retail environments.  
 Includes **M-Pesa STK Push payment integration**, enabling **direct mobile payments** alongside cash and card transactions.
@@ -59,9 +55,7 @@ Includes **M-Pesa STK Push payment integration**, enabling **direct mobile payme
 ---
 
 ### **Tenant Billing App**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white),[Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white),[SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 Mobile app to track meter readings per house/tenant with automated billing.  
 [🔗 Repository](https://github.com/king36ix/tenant-billing-app) | [🎥 Demo Video](https://youtu.be/example)  
 
@@ -69,8 +63,7 @@ Mobile app to track meter readings per house/tenant with automated billing.
 
 ---
 ### **POS System**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white),![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)  
 Complete point-of-sale application with **sales tracking**, **stock management**, and **Bluetooth receipt printing**.  
 [🔗 Repository](https://github.com/king36ix/FXJavaPOS) | [🎥 Demo Video](https://youtu.be/example)  
@@ -79,8 +72,7 @@ Complete point-of-sale application with **sales tracking**, **stock management**
 ---
 
 ### **(WIP) Service Booking App**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white),![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 A modern mobile platform built with **Flutter (Dart)** for browsing, booking, and managing service appointments.  
 Features **real-time availability tracking**, an **interactive booking calendar**, and **secure authentication** for both customers and providers.  
