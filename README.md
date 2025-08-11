@@ -13,7 +13,7 @@ I’m passionate about crafting **user-friendly interfaces**, **efficient backen
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)  
 Complete point-of-sale app with sales tracking, stock management, and Bluetooth printing.  
-[🔗 Repository](https://github.com/king36ix/pos-system) | [🎥 Demo Video](https://youtu.be/example)  
+[🔗 Repository]([https://github.com/king36ix/pos-system](https://github.com/king36ix/FXJavaPOS)) | [🎥 Demo Video](https://youtu.be/example)  
 
 <img src="https://github.com/king36ix/pos-system/raw/main/screenshots/dashboard.png" width="500"/>
 
