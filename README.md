@@ -55,7 +55,7 @@ Includes **M-Pesa STK Push payment integration**, enabling **direct mobile payme
 ---
 
 ### **Tenant Billing App**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white),[Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white),[SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white), [Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white), [SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 Mobile app to track meter readings per house/tenant with automated billing.  
 [🔗 Repository](https://github.com/king36ix/tenant-billing-app) | [🎥 Demo Video](https://youtu.be/example)  
 
@@ -72,7 +72,7 @@ Complete point-of-sale application with **sales tracking**, **stock management**
 ---
 
 ### **(WIP) Service Booking App**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white),![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white), [Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white),
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 A modern mobile platform built with **Flutter (Dart)** for browsing, booking, and managing service appointments.  
 Features **real-time availability tracking**, an **interactive booking calendar**, and **secure authentication** for both customers and providers.  
